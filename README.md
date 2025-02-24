@@ -28,9 +28,28 @@ This project uses [`next/font`](https://nextjs.org/docs/app/building-your-applic
 | Kelas | TI-3A |
 
 ### Jawaban Soal Praktikum 1
-1. Jelaskan kegunaan masing-masing dari Git, VS Code dan NodeJS yang telah Anda install 
+1. Jelaskan kegunaan masing-masing dari Git, VS Code, dan NodeJS yang telah Anda install 
 pada sesi praktikum ini! 
+
+#### GIT
+GIT adalah Version Control System yang dapat membantu developer dalam mengelola suatu project seperti melihat perubahan kode yang sudah dibuat.
+
+#### VS Code
+VS Code merupakan code editor yang digunakan untuk mengembangkan sebuah aplikasi.
+
+#### NodeJS
+NodeJS merupakan sebuah runtime environment yang dapat menjalankan program secara bersamaan tanpa menunggu satu proses selesai. 
+
 2. Buktikan dengan screenshoot yang menunjukkan bahwa masing-masing tools tersebut telah berhasil terinstall di perangkat Anda!
+
+#### GIT
+![GIT Installed](public\img\p1-2_git.png)
+
+#### VS Code
+![VS Code Installed](public\img\p1-2_vsc.png)
+
+#### NodeJS
+![NodeJS Installed](public\img\p1-2_node.png)
 
 ### Jawaban Soal Praktikum 2
 1. Pada Langkah ke-2, setelah membuat proyek baru menggunakan Next.js, terdapat beberapa 
