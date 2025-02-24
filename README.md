@@ -52,10 +52,41 @@ NodeJS merupakan sebuah runtime environment yang dapat menjalankan program secar
 ![NodeJS Installed](public\img\p1-2_node.png)
 
 ### Jawaban Soal Praktikum 2
-1. Pada Langkah ke-2, setelah membuat proyek baru menggunakan Next.js, terdapat beberapa 
-istilah yang muncul. Jelaskan istilah tersebut, TypeScript, ESLint, Tailwind CSS, App Router, Import alias, App router, dan Turbopack! 
-2. Apa saja kegunaak folder dan file yang ada pada struktur proyek React yang tampil pada gambar pada tahap percobaan ke-3! 
+1. Pada Langkah ke-2, setelah membuat proyek baru menggunakan Next.js, terdapat beberapa istilah yang muncul. Jelaskan istilah tersebut, TypeScript, ESLint, Tailwind CSS, App Router, Import alias, App router, dan Turbopack! 
+
+- TypeScript adalah superset dari JavaScript yang menambahkan static typing pada JavaScript untuk meningkatkan skalabilitas kode.
+- ESLint adalah linter untuk membantu memastikan konsistensi kode dan mencegah bug.
+- Tailwind CSS merupakan framework CSS yang memungkinkan styling langsung pada HTML tanpa membuat banyak file CSS.
+- App Router adalah fitur routing yang ada di NextJS.
+- Import alias merupakan sebuah fitur untuk menghindari penamaan import yang panjang dalam proyek JavaScript.
+- Turbopack merupakan bundler yang ditujukan untuk meningkatkan kevepatan dan efisiensi dalam membangun aplikasi web.
+
+2. Apa saja kegunaan folder dan file yang ada pada struktur proyek React yang tampil pada gambar pada tahap percobaan ke-3! 
+
+- public adalah folder yang dapat diakses oleh pengguna seperti file gambar.
+- src adalah folder yang digunakan untuk menyimpan file yang digunakan untuk menangani server seperti route, controller, model, dan view.
+- .gitignore merupakan file yang berisi berkas dan folder yang tidak boleh diupload ke server (git).
+- package.json adalah file yang berisi data dan detail semua dependensi yang terinstall pada proyek/aplikasi.
+- eslint.config.mjs adalah file konfigurasi dari ESLint yang digunkan untuk mengatur aturan pada proyek.
+- readme.md merupakan file berisi tentang informasi proyek yang dikembangkan.
+- next-env.d.ts adalah file yang digunakan untuk memastikan bahwa typescript dapat mengenali fitur-fitur spesifik dari Next.js.
+- next.config.ts merupakan file konfigurasi pada proyek Next.js.
+- package-lock.json merupakan file yang digunakan untuk mengamankan depedensi agar tetap konsiste.
+- postcss.config.mjs adalah file yang digunakan untuk mengolah file CSS dan memproses utility classess untuk proyek yang menggunakan TailwindCSS.
+- tailwind.config.ts adalah file konfigurasi untuk TailwindCSS.
+- tsconfig.json adalah file konfigurasi untuk TypeScript.
+
+
 3. Buktikan dengan screenshoot yang menunjukkan bahwa tahapan percobaan di atas telah berhasil Anda lakukan!
+
+#### Install NPM
+![NPM Installed](public\img\p2-3_npm.png)
+
+#### Struktur NPM
+![NPM Structure](public\img\p2-3_struktur.png)
+
+#### Running NPM
+![NPM Run Dev](public\img\p2-3_npm-run.png)
 
 ### Jawaban Soal Praktikum 3
 1. Buktikan dengan screenshoot yang menunjukkan bahwa tahapan percobaan di atas telah berhasil Anda lakukan!
